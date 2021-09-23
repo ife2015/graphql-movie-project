@@ -66,6 +66,22 @@ const resolvers = {
     movies: () => {
       return db.movies.list();
     },
+    findmovie: (root, args, context, info) => {
+      const { id } = args;
+      return db.movies.get(id);
+    },
+  },
+  Movie: {
+    characters: (root) => {
+      const characterId = root.characters;
+      const characterList = characterId.map((d) => db.characters.get(d.id));
+      return characterList;
+    },
+    actors: (root) => {
+      const actorId = root.actors;
+      const actorList = actorId.map((d) => db.actors.get(d.id));
+      return actorList;
+    },
   },
 };
 
