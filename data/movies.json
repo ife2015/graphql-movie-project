@@ -1,0 +1,11 @@
+[
+  {
+    "id": "Bk4GAPeMY",
+    "title": "Iron Man",
+    "releaseDate": "05-08-2008",
+    "rating": 4.8,
+    "status": "INTERESTING",
+    "characters": [{ "id": "char-1" }, { "id": "char-2" }],
+    "actors": [{ "id": "act-1" }, { "id": "act-2" }]
+  }
+]
