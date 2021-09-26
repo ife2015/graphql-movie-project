@@ -5,6 +5,74 @@
   },
   {
     "id": "act-2",
+    "name": "Terrence Howard"
+  },
+  {
+    "id": "act-3",
+    "name": "Jeff Bridges"
+  },
+  {
+    "id": "act-4",
     "name": "Gwyneth Paltrow"
+  },
+  {
+    "id": "act-5",
+    "name": "Leslie Bibb"
+  },
+  {
+    "id": "act-6",
+    "name": "Clark Gregg"
+  },
+  {
+    "id": "act-6",
+    "name": "Chris Hemsworth"
+  },
+  {
+    "id": "act-7",
+    "name": "Natalie Portman"
+  },
+  {
+    "id": "act-8",
+    "name": "Tom Hiddleston"
+  },
+  {
+    "id": "act-9",
+    "name": "Anthony Hopkins"
+  },
+  {
+    "id": "act-10",
+    "name": "Stellan Skarsgård"
+  },
+  {
+    "id": "act-11",
+    "name": "Kat Dennings"
+  },
+  {
+    "id": "act-12",
+    "name": "Idris Elba"
+  },
+  {
+    "id": "act-13",
+    "name": "Chris Evans"
+  },
+  {
+    "id": "act-14",
+    "name": "Hayley Atwell"
+  },
+  {
+    "id": "act-15",
+    "name": "Sebastian Stan"
+  },
+  {
+    "id": "act-16",
+    "name": "Hugo Weaving"
+  },
+  {
+    "id": "act-17",
+    "name": "Samuel L. Jackson"
+  },
+  {
+    "id": "act-18",
+    "name": "Stanley Tucci"
   }
 ]

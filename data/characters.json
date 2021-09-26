@@ -1,10 +1,94 @@
 [
   {
-    "id": "char-1",
+    "id": "char-0",
     "name": "Tony Stark"
   },
   {
+    "id": "char-1",
+    "name": "Rhodey"
+  },
+  {
     "id": "char-2",
+    "name": "Obadiah Stane"
+  },
+  {
+    "id": "char-3",
     "name": "Pepper Potts"
+  },
+  {
+    "id": "char-4",
+    "name": "Christine Everhart"
+  },
+  {
+    "id": "char-5",
+    "name": "Agent Coulson"
+  },
+  {
+    "id": "char-7",
+    "name": "Bruce Banner"
+  },
+  {
+    "id": "char-10",
+    "name": "Natasha Romanoff"
+  },
+  {
+    "id": "char-11",
+    "name": "Nick Fury"
+  },
+  {
+    "id": "char-13",
+    "name": "Howard Stark"
+  },
+  {
+    "id": "char-14",
+    "name": "JARVIS"
+  },
+  {
+    "id": "char-11",
+    "name": "Thor"
+  },
+  {
+    "id": "char-12",
+    "name": "Jane Foster"
+  },
+  {
+    "id": "char-13",
+    "name": "Loki"
+  },
+  {
+    "id": "char-14",
+    "name": "Odin"
+  },
+  {
+    "id": "char-15",
+    "name": "Darcy Lewis"
+  },
+  {
+    "id": "char-16",
+    "name": "Erik Selvig"
+  },
+  {
+    "id": "char-17",
+    "name": "\tHeimdall"
+  },
+  {
+    "id": "char-18",
+    "name": "Captain America"
+  },
+  {
+    "id": "char-19",
+    "name": "Peggy Carter"
+  },
+  {
+    "id": "char-20",
+    "name": "James Buchanan 'Bucky' Barnes"
+  },
+  {
+    "id": "char-21",
+    "name": "Red Skull"
+  },
+  {
+    "id": "char-22",
+    "name": "Dr. Abraham Erskine"
   }
 ]

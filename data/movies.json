@@ -1,11 +1,188 @@
 [
   {
-    "id": "Bk4GAPeMY",
+    "id": "JKDJFo4",
     "title": "Iron Man",
-    "releaseDate": "05-08-2008",
-    "rating": 4.8,
+    "releaseDate": "05-02-2008",
+    "rating": 4.2,
     "status": "INTERESTING",
-    "characters": [{ "id": "char-1" }, { "id": "char-2" }],
-    "actors": [{ "id": "act-1" }, { "id": "act-2" }]
+    "characters": [
+      {
+        "id": "char-0",
+        "name": "Tony Stark"
+      },
+      {
+        "id": "char-1",
+        "name": "Rhodey"
+      },
+      {
+        "id": "char-2",
+        "name": "Obadiah Stane"
+      },
+      {
+        "id": "char-3",
+        "name": "Pepper Potts"
+      },
+      {
+        "id": "char-4",
+        "name": "Christine Everhart"
+      },
+      {
+        "id": "char-5",
+        "name": "Agent Coulson"
+      }
+    ],
+    "actors": [
+      {
+        "id": "act-1",
+        "name": "Robert Downey Jr."
+      },
+      {
+        "id": "act-2",
+        "name": "Terrence Howard"
+      },
+      {
+        "id": "act-3",
+        "name": "Jeff Bridges"
+      },
+      {
+        "id": "act-4",
+        "name": "Gwyneth Paltrow"
+      },
+      {
+        "id": "act-5",
+        "name": "Leslie Bibb"
+      },
+      {
+        "id": "act-6",
+        "name": "Clark Gregg"
+      }
+    ]
+  },
+  {
+    "id": "SJNfcWhXY",
+    "title": "The Incredible Hulk",
+    "releaseDate": "06-13-2008",
+    "status": "UNKNOWN",
+    "characters": [
+      {
+        "name": "Bruce Banner"
+      }
+    ]
+  },
+  {
+    "id": "r1yJEGnmF",
+    "title": "Iron Man 2",
+    "releaseDate": "05-07-2010",
+    "status": "UNKNOWN",
+    "characters": [
+      {
+        "name": "Tony Stark"
+      },
+      {
+        "name": "Pepper Potts"
+      },
+      {
+        "name": "Rhodey"
+      },
+      {
+        "name": "Natasha Romanoff"
+      },
+      {
+        "name": "Nick Fury"
+      },
+      {
+        "name": "Agent Coulson"
+      },
+      {
+        "name": "Howard Stark"
+      },
+      {
+        "name": "JARVIS"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Robert Downey Jr."
+      },
+      {
+        "name": "Gwyneth Paltrow"
+      },
+      {
+        "name": "Don Cheadle"
+      },
+      {
+        "name": "Scarlett Johansson"
+      },
+      {
+        "name": "Samuel L. Jackson"
+      },
+      {
+        "name": "Clark Gregg"
+      },
+      {
+        "name": "John Slattery"
+      },
+      {
+        "name": "Paul Bettany"
+      }
+    ]
+  },
+  {
+    "id": "By_uOsTQt",
+    "title": "Thor",
+    "releaseDate": "05-06-2011",
+    "status": "UNKNOWN",
+    "characters": [
+      {
+        "name": "Thor"
+      },
+      {
+        "name": "Jane Foster"
+      },
+      {
+        "name": "Loki"
+      },
+      {
+        "name": "Odin"
+      },
+      {
+        "name": "Darcy Lewis"
+      },
+      {
+        "name": "Agent Coulson"
+      },
+      {
+        "name": "Erik Selvig"
+      },
+      {
+        "name": "\tHeimdall"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Chris Hemsworth"
+      },
+      {
+        "name": "Natalie Portman"
+      },
+      {
+        "name": "Tom Hiddleston"
+      },
+      {
+        "name": "Anthony Hopkins"
+      },
+      {
+        "name": "Stellan Skarsgård"
+      },
+      {
+        "name": "Kat Dennings"
+      },
+      {
+        "name": "Clark Gregg"
+      },
+      {
+        "name": "Idris Elba"
+      }
+    ]
   }
 ]
